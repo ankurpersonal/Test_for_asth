@@ -5,4 +5,8 @@ class AppController < ApplicationController
 
   end
 
+  def testing_branching
+    puts "wow branching reaclly works"
+  end
+
 end
